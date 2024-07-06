@@ -1,6 +1,7 @@
 // assim se importa images from svg
 import logoSVG from '../../assets/svg/logo.svg'
 import style from './NavBar.module.css'
+import { Icon } from '@iconify/react'
 
 
 // 1 - criar função

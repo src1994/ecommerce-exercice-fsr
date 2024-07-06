@@ -10,8 +10,8 @@ function MainContent() {
     //2 - Obrigatorio ter um return
     return (
         <div className= {style['main-content']}>
-            <h2>Featured Products</h2>
-            <h3>BESTSELLER PRODUCTS</h3>
+            <h4>Featured Products</h4>
+            <h2>BESTSELLER PRODUCTS</h2>
             <p>Problems trying to resolve the conflict between</p>
         </div>
 
@@ -22,4 +22,4 @@ function MainContent() {
 
 
 //3 - Exportar componente(função)
-export default MainContent;
+export default MainContent; 
